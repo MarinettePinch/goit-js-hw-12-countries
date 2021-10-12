@@ -10,9 +10,9 @@ import { alert, notice, info, success, error } from '@pnotify/core';
 const resultDiv = document.querySelector('.result');
 console.log(cardTemplate);
 
-defaults.closer = false;
-defaults.width = '250px';
-defaults.delay = 2000;
+// defaults.closer = false;
+// defaults.width = '250px';
+// defaults.delay = 2000;
 
 
 export default function parsesData(data) {
